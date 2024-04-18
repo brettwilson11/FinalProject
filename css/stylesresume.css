@@ -1,0 +1,52 @@
+﻿body  {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #e7e7e7;
+	font-size: 16px;
+	background-color: #1f1e1e;
+}
+li  {
+	font-size: 14px;
+	font-style: italic;
+	font-weight: normal;
+}
+a  {
+	color: rgb(251, 251, 252);
+	text-decoration: none;
+}
+
+
+.header{
+	height: 300px;
+	top: 5px;
+	left: 5px;
+}
+
+.navigation{
+	width: 250px;
+	right: 10px;
+	top: 20px;
+	position: absolute;
+	text-decoration:none;
+	font-weight: bold;
+}
+
+.mainbody{
+	right:20px;
+	left:20px;
+	top:310px;
+}
+
+.resumeHeadings{
+	font-weight: bold;
+}
+
+.videos{
+	left: 10px;
+	right: 10px;
+}
+
+.tableau{
+	left: 25px;
+	right: 25px;
+	top: 75px;
+}
